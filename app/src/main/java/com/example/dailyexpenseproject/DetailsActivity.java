@@ -38,6 +38,7 @@ public class DetailsActivity extends AppCompatActivity {
     private String receipt;
     private long date;
     private int receiptType;
+    private int a= 0;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
